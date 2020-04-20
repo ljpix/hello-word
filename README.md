@@ -1,2 +1,5 @@
 # hello-word
-The first repository
+
+The first repository!
+
+Hubot here,I like Node.
